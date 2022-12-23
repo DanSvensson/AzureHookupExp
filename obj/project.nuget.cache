@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gSsSgcUuWzdKQefHz/7ZOSAkD8BBUj6C/eIpl37gEQ/V2Y5YJyC+YASKjSXBqdIZ+p94+SfIvr3pKV5MxQhtjQ==",
+  "dgSpecHash": "S4C71PVDzElqO711XMHQtCWDi58RwTYmil/y1MRcAsesdONnBW5GM957mf05WYEQ07G/vIihtFJ2kXqkxjKsAQ==",
   "success": true,
   "projectFilePath": "C:\\Git\\AzureHookupExp\\AzureHookupExp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\danrs\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\danrs\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.2\\microsoft.netframework.referenceassemblies.net462.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

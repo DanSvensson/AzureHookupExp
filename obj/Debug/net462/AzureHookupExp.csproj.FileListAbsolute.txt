@@ -1,0 +1,6 @@
+C:\Git\AzureHookupExp\obj\Debug\net462\AzureHookupExp.csproj.AssemblyReference.cache
+C:\Git\AzureHookupExp\obj\Debug\net462\AzureHookupExp.csproj.SuggestedBindingRedirects.cache
+C:\Git\AzureHookupExp\obj\Debug\net462\AzureHookupExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\AzureHookupExp\obj\Debug\net462\AzureHookupExp.AssemblyInfoInputs.cache
+C:\Git\AzureHookupExp\obj\Debug\net462\AzureHookupExp.AssemblyInfo.cs
+C:\Git\AzureHookupExp\obj\Debug\net462\AzureHookupExp.csproj.CoreCompileInputs.cache

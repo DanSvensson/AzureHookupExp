@@ -1,6 +1,8 @@
-﻿namespace AzureHookupExp
+﻿using System;
+
+namespace AzureHookupExp
 {
-    public internal class Program
+    public class Program
     {
         private static void Main(string[] args)
         {
